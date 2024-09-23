@@ -2,6 +2,8 @@
 <p align="center"> Bem-vindo à minha página! </p>
 <br>
 
+[Copiar meu e-mail](mailto:seuemail@example.)
+[Copiar meu e-mail]("https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank")
 <div style="display: inline_block" align="center">
   <img align="center" width="152px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" width="107px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
