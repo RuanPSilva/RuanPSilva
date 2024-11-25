@@ -25,6 +25,3 @@
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPSilva&layout=compact&hide_border=true&title_color=836FFF&text_color=00bfbf&bg_color=21272e" />
   </a>
 </div>
-
-<br>
- <img align="center" width="96px" src="" />
