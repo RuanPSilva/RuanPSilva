@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/rpfernandes71/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.instagram.com/ruanpsh467]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rpfernandes71@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-pablo-3a396a2a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
