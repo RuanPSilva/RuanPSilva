@@ -1,5 +1,4 @@
-<h1 align="center"> Meu nome é Ruan Pablo! </h1>
-<p align="center"> Bem-vindo à minha página! </p>
+<h1 align="center"> Bem-vindo à minha página! </h1>
 <br>
 
 <div align="center">
